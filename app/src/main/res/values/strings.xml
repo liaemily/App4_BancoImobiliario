@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Super Banco Imobiliário</string>
+    <string name="pay">Selecione o jogador que irá pagar</string>
+    <string-array name="pay_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="btn_transfer">Transferir entre os jogadores</string>
+    <string name="btn_round_completed">Receber recompensa</string>
+    <string name="receiver">Selecione o jogador que irá receber</string>
+    <string-array name="receiver_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="hint_edit_text">Valor</string>
+    <string name="txt_transfer">Transferências</string>
+    <string name="txt_round_completed">Rodada completada</string>
+    <string name="invalid_debit_message">Valor maior que o saldo do cartão</string>
+    <string name="invalid_value_message">Valor inválido</string>
+    <string name="btn_pay_bank">Pagar para o banco</string>
+    <string name="btn_receiver_bank">Receber do banco</string>
+    <string name="hint_edit_text_round_completed">Valor da recompensa</string>
+    <string name="reward">Selecione o jogador</string>
+    <string-array name="reward_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
